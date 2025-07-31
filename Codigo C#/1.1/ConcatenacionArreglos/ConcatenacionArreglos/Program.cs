@@ -10,7 +10,7 @@ class Program
     {
         object[] x = { 100, 200, 300, "Hola", 4.2, "Mundo"};
         string resultado = ConcatenaArreglo(x);
-        Console.WriteLine(resultado); // Salida: 100,200,300
+        Console.WriteLine(resultado);
     }
 }
 
