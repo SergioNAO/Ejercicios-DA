@@ -1,0 +1,14 @@
+C:\Users\inter\OneDrive\Escritorio\se-sharp\ConcatenacionArreglos\ConcatenacionArreglos\bin\Debug\net8.0\ConcatenacionArreglos.exe
+C:\Users\inter\OneDrive\Escritorio\se-sharp\ConcatenacionArreglos\ConcatenacionArreglos\bin\Debug\net8.0\ConcatenacionArreglos.deps.json
+C:\Users\inter\OneDrive\Escritorio\se-sharp\ConcatenacionArreglos\ConcatenacionArreglos\bin\Debug\net8.0\ConcatenacionArreglos.runtimeconfig.json
+C:\Users\inter\OneDrive\Escritorio\se-sharp\ConcatenacionArreglos\ConcatenacionArreglos\bin\Debug\net8.0\ConcatenacionArreglos.dll
+C:\Users\inter\OneDrive\Escritorio\se-sharp\ConcatenacionArreglos\ConcatenacionArreglos\bin\Debug\net8.0\ConcatenacionArreglos.pdb
+C:\Users\inter\OneDrive\Escritorio\se-sharp\ConcatenacionArreglos\ConcatenacionArreglos\obj\Debug\net8.0\ConcatenacionArreglos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inter\OneDrive\Escritorio\se-sharp\ConcatenacionArreglos\ConcatenacionArreglos\obj\Debug\net8.0\ConcatenacionArreglos.AssemblyInfoInputs.cache
+C:\Users\inter\OneDrive\Escritorio\se-sharp\ConcatenacionArreglos\ConcatenacionArreglos\obj\Debug\net8.0\ConcatenacionArreglos.AssemblyInfo.cs
+C:\Users\inter\OneDrive\Escritorio\se-sharp\ConcatenacionArreglos\ConcatenacionArreglos\obj\Debug\net8.0\ConcatenacionArreglos.csproj.CoreCompileInputs.cache
+C:\Users\inter\OneDrive\Escritorio\se-sharp\ConcatenacionArreglos\ConcatenacionArreglos\obj\Debug\net8.0\ConcatenacionArreglos.dll
+C:\Users\inter\OneDrive\Escritorio\se-sharp\ConcatenacionArreglos\ConcatenacionArreglos\obj\Debug\net8.0\refint\ConcatenacionArreglos.dll
+C:\Users\inter\OneDrive\Escritorio\se-sharp\ConcatenacionArreglos\ConcatenacionArreglos\obj\Debug\net8.0\ConcatenacionArreglos.pdb
+C:\Users\inter\OneDrive\Escritorio\se-sharp\ConcatenacionArreglos\ConcatenacionArreglos\obj\Debug\net8.0\ConcatenacionArreglos.genruntimeconfig.cache
+C:\Users\inter\OneDrive\Escritorio\se-sharp\ConcatenacionArreglos\ConcatenacionArreglos\obj\Debug\net8.0\ref\ConcatenacionArreglos.dll

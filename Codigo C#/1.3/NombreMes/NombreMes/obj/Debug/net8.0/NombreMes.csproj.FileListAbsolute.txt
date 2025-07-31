@@ -1,0 +1,14 @@
+C:\Users\inter\OneDrive\Escritorio\se-sharp\NombreMes\NombreMes\bin\Debug\net8.0\NombreMes.exe
+C:\Users\inter\OneDrive\Escritorio\se-sharp\NombreMes\NombreMes\bin\Debug\net8.0\NombreMes.deps.json
+C:\Users\inter\OneDrive\Escritorio\se-sharp\NombreMes\NombreMes\bin\Debug\net8.0\NombreMes.runtimeconfig.json
+C:\Users\inter\OneDrive\Escritorio\se-sharp\NombreMes\NombreMes\bin\Debug\net8.0\NombreMes.dll
+C:\Users\inter\OneDrive\Escritorio\se-sharp\NombreMes\NombreMes\bin\Debug\net8.0\NombreMes.pdb
+C:\Users\inter\OneDrive\Escritorio\se-sharp\NombreMes\NombreMes\obj\Debug\net8.0\NombreMes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inter\OneDrive\Escritorio\se-sharp\NombreMes\NombreMes\obj\Debug\net8.0\NombreMes.AssemblyInfoInputs.cache
+C:\Users\inter\OneDrive\Escritorio\se-sharp\NombreMes\NombreMes\obj\Debug\net8.0\NombreMes.AssemblyInfo.cs
+C:\Users\inter\OneDrive\Escritorio\se-sharp\NombreMes\NombreMes\obj\Debug\net8.0\NombreMes.csproj.CoreCompileInputs.cache
+C:\Users\inter\OneDrive\Escritorio\se-sharp\NombreMes\NombreMes\obj\Debug\net8.0\NombreMes.dll
+C:\Users\inter\OneDrive\Escritorio\se-sharp\NombreMes\NombreMes\obj\Debug\net8.0\refint\NombreMes.dll
+C:\Users\inter\OneDrive\Escritorio\se-sharp\NombreMes\NombreMes\obj\Debug\net8.0\NombreMes.pdb
+C:\Users\inter\OneDrive\Escritorio\se-sharp\NombreMes\NombreMes\obj\Debug\net8.0\NombreMes.genruntimeconfig.cache
+C:\Users\inter\OneDrive\Escritorio\se-sharp\NombreMes\NombreMes\obj\Debug\net8.0\ref\NombreMes.dll
