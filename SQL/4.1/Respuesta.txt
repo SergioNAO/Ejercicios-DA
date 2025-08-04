@@ -1,0 +1,10 @@
+SELECT 
+     A.Nombre AS 'Nombre del Alumno', 
+     S.SalonId AS 'Salón', 
+     M.Nombre AS 'Nombre del Maestro' 
+FROM 
+     ALUMNO A 
+JOIN 
+     SALON S ON A.SalonId = S.SalonId 
+JOIN 
+     MAESTRO M ON S.MaestroId = M.MaestroId;

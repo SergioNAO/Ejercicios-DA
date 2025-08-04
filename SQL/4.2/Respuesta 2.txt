@@ -1,0 +1,11 @@
+SELECT 
+       A.Nombre AS 'Nombre del Alumno', 
+       FLOOR(COALESCE(AVG(C.monto), 0)) AS Monto
+FROM
+       ALUMNO A
+LEFT JOIN
+       CALIFICACIONES C ON A.AlumnoId = C.AlumnoId
+GROUP BY 
+       A.Nombre
+ORDER BY 
+       FIELD(A.Nombre, 'Luis Perez', 'Juan Lopez', 'Carlos Blanco', 'Raul Torres');
