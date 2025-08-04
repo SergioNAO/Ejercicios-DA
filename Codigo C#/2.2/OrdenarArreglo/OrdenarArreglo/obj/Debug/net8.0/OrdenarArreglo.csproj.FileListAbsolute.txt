@@ -1,0 +1,14 @@
+C:\Users\inter\OneDrive\Escritorio\se-sharp\OrdenarArreglo\OrdenarArreglo\bin\Debug\net8.0\OrdenarArreglo.exe
+C:\Users\inter\OneDrive\Escritorio\se-sharp\OrdenarArreglo\OrdenarArreglo\bin\Debug\net8.0\OrdenarArreglo.deps.json
+C:\Users\inter\OneDrive\Escritorio\se-sharp\OrdenarArreglo\OrdenarArreglo\bin\Debug\net8.0\OrdenarArreglo.runtimeconfig.json
+C:\Users\inter\OneDrive\Escritorio\se-sharp\OrdenarArreglo\OrdenarArreglo\bin\Debug\net8.0\OrdenarArreglo.dll
+C:\Users\inter\OneDrive\Escritorio\se-sharp\OrdenarArreglo\OrdenarArreglo\bin\Debug\net8.0\OrdenarArreglo.pdb
+C:\Users\inter\OneDrive\Escritorio\se-sharp\OrdenarArreglo\OrdenarArreglo\obj\Debug\net8.0\OrdenarArreglo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inter\OneDrive\Escritorio\se-sharp\OrdenarArreglo\OrdenarArreglo\obj\Debug\net8.0\OrdenarArreglo.AssemblyInfoInputs.cache
+C:\Users\inter\OneDrive\Escritorio\se-sharp\OrdenarArreglo\OrdenarArreglo\obj\Debug\net8.0\OrdenarArreglo.AssemblyInfo.cs
+C:\Users\inter\OneDrive\Escritorio\se-sharp\OrdenarArreglo\OrdenarArreglo\obj\Debug\net8.0\OrdenarArreglo.csproj.CoreCompileInputs.cache
+C:\Users\inter\OneDrive\Escritorio\se-sharp\OrdenarArreglo\OrdenarArreglo\obj\Debug\net8.0\OrdenarArreglo.dll
+C:\Users\inter\OneDrive\Escritorio\se-sharp\OrdenarArreglo\OrdenarArreglo\obj\Debug\net8.0\refint\OrdenarArreglo.dll
+C:\Users\inter\OneDrive\Escritorio\se-sharp\OrdenarArreglo\OrdenarArreglo\obj\Debug\net8.0\OrdenarArreglo.pdb
+C:\Users\inter\OneDrive\Escritorio\se-sharp\OrdenarArreglo\OrdenarArreglo\obj\Debug\net8.0\OrdenarArreglo.genruntimeconfig.cache
+C:\Users\inter\OneDrive\Escritorio\se-sharp\OrdenarArreglo\OrdenarArreglo\obj\Debug\net8.0\ref\OrdenarArreglo.dll

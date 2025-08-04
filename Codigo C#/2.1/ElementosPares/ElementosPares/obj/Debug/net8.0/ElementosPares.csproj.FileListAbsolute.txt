@@ -1,0 +1,14 @@
+C:\Users\inter\OneDrive\Escritorio\se-sharp\ElementosPares\ElementosPares\bin\Debug\net8.0\ElementosPares.exe
+C:\Users\inter\OneDrive\Escritorio\se-sharp\ElementosPares\ElementosPares\bin\Debug\net8.0\ElementosPares.deps.json
+C:\Users\inter\OneDrive\Escritorio\se-sharp\ElementosPares\ElementosPares\bin\Debug\net8.0\ElementosPares.runtimeconfig.json
+C:\Users\inter\OneDrive\Escritorio\se-sharp\ElementosPares\ElementosPares\bin\Debug\net8.0\ElementosPares.dll
+C:\Users\inter\OneDrive\Escritorio\se-sharp\ElementosPares\ElementosPares\bin\Debug\net8.0\ElementosPares.pdb
+C:\Users\inter\OneDrive\Escritorio\se-sharp\ElementosPares\ElementosPares\obj\Debug\net8.0\ElementosPares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\inter\OneDrive\Escritorio\se-sharp\ElementosPares\ElementosPares\obj\Debug\net8.0\ElementosPares.AssemblyInfoInputs.cache
+C:\Users\inter\OneDrive\Escritorio\se-sharp\ElementosPares\ElementosPares\obj\Debug\net8.0\ElementosPares.AssemblyInfo.cs
+C:\Users\inter\OneDrive\Escritorio\se-sharp\ElementosPares\ElementosPares\obj\Debug\net8.0\ElementosPares.csproj.CoreCompileInputs.cache
+C:\Users\inter\OneDrive\Escritorio\se-sharp\ElementosPares\ElementosPares\obj\Debug\net8.0\ElementosPares.dll
+C:\Users\inter\OneDrive\Escritorio\se-sharp\ElementosPares\ElementosPares\obj\Debug\net8.0\refint\ElementosPares.dll
+C:\Users\inter\OneDrive\Escritorio\se-sharp\ElementosPares\ElementosPares\obj\Debug\net8.0\ElementosPares.pdb
+C:\Users\inter\OneDrive\Escritorio\se-sharp\ElementosPares\ElementosPares\obj\Debug\net8.0\ElementosPares.genruntimeconfig.cache
+C:\Users\inter\OneDrive\Escritorio\se-sharp\ElementosPares\ElementosPares\obj\Debug\net8.0\ref\ElementosPares.dll
